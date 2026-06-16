@@ -1,0 +1,182 @@
+
+body {
+    background-color: #f8f0ff;
+    background-image: radial-gradient(circle, #e6ccff 1px, transparent 2px);
+    background-size: 20px 20px;
+}
+
+.header-style {
+    background-color: purple;
+    color: white;
+    padding: 10px 20px;
+    font-family: 'Dancing Script', cursive;
+    font-size: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.nav-btn {
+    background-color: purple;
+    color: white;
+    font-family: Arial;
+    font-size: 15px;
+    padding: 5px 15px;
+}
+
+.profile-img { 
+    border-radius: 50%;
+    margin-top: 15px;
+}
+
+.about-profile-img {
+    border-radius: 25%;
+    margin-top: 110px;
+}
+
+.hero-title {
+    margin-top: 15px;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-weight: bolder;
+    font-size: 45px;
+}
+
+.hero-text {
+    margin-top: 15px;
+    color: black;
+    font-size: 22px;
+}
+
+.know-btn {
+    padding: 7px 28px;
+    font-size: 18px;
+    font-weight: bold;
+    background-color: purple;
+    color: white;
+    margin-left: 40px;
+}
+
+.tagline {
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-left: ;
+}
+
+.section-title {
+    font-family: 'Qwigley', cursive;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bolder;
+    color: purple;
+}
+
+.hobbies-title {
+    margin-top: 60px;
+}
+
+.interests-title {
+    margin-top: 70px;
+}
+
+.gallery-img {
+    border-radius: 10%;
+}
+
+.card-text {
+    font-family: Arial;
+    font-size: 15px;
+    text-align: center;
+    color: black;
+    margin-top: 10px;
+}
+
+.why-it-title {
+    font-family: 'Qwigley', cursive;
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+    margin-top: 85px;
+    color: black;
+    background-color: purple;
+}
+
+.footer-style {
+    background-color: purple;
+    color: white;
+    text-align: center;
+    padding: 5px;
+    margin-top: 15px;
+    width: 100%;
+}
+
+.about-symbol {
+    margin-top: 100px;
+    margin-bottom: 50px;
+    font-family: 'Dancing Script', cursive;
+    color: black;
+    font-weight: bolder;
+    font-size: 50px;
+}
+
+.about-text {
+    margin-top: 15px;
+    color: black;
+    font-size: 20px;
+    border: 10px solid purple;
+    padding: 15px;
+}
+
+.about-section-title {
+    font-family: 'Qwigley', cursive;
+    font-size: 50px;
+    text-align: center;
+    font-weight: bold;
+    color: purple;
+}
+
+.goals-title {
+    margin-top: 150px;
+}
+
+.values-title,
+.skills-title,
+.contact-title {
+    margin-top: 105px;
+}
+
+.content-box {
+    font-family: Arial;
+    font-size: 18px;
+    text-align: center;
+    color: black;
+    border: 2px solid purple;
+    padding: 15px;
+}
+
+.skills-text {
+    font-family: Arial;
+    font-size: 17px;
+    text-align: center;
+    font-weight: bold;
+    color: purple;
+}
+
+.skill-btn {
+    background-color: purple;
+    color: white;
+    padding: 3px 7px;
+    margin: 5px;
+}
+
+.contact-box {
+    border: 1px solid purple;
+    padding: 5px;
+    text-align: center;
+    font-family: Arial;
+    font-size: 15px;
+    margin-bottom: 10px;
+}
